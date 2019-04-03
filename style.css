@@ -50,7 +50,7 @@ a:hover {
 }
 
 .header {
-  background-image: url('../images/header.jpg');
+  background-image: url('images/header.jpg');
   background-color: rgba(255, 255, 255, 0.1);
   background-repeat: no-repeat;
   background-position: center;
