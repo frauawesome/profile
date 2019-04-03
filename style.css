@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Montserrat');
+body {
+  background-color: #0A0908;
+}
+
+h1 {
+  font-family: 'Merriweather', serif;
+  font-size: 45px
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+div {
+  margin: 12px auto;
+  background: white;
+  padding: 10px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  text-align: center;
+  width: 90%;
+  height: auto;
+}
+
+img {
+  border-radius: 100px;
+  width: 150px;
+  height: auto;
+}
+
+ul {
+  padding: 0px;
+}
+
+
+li>a{
+  color: white;
+}
+
+a:hover {
+  opacity: 0.5;
+}
+
+.container {
+  background-color: #22333B;
+}
+
+.card {
+  background-color: #E6E6E6;
+}
+
+.header {
+  background-image: url('images/header.jpg');
+  background-color: rgba(255, 255, 255, 0.1);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  position: relative;
+  color: #062726;
+}
+
+.connect {
+  color: white;
+  background-color: #22333B;
+  padding: 0px;
+  margin: 12px auto;
+  font-size: 15px;
+}
+
+.button {
+  background-color: #102B3F;
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+}
+
+.social_button {
+  display: inline;
+  font-size: 25px;
+  color: white;
+}
+
+.content {
+  list-style-position: inside;
+  font-family: 'Montserrat', sans-serif;
+}
+
